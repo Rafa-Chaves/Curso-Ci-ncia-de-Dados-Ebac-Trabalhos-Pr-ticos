@@ -1,2 +1,2 @@
-# Trabalho---Curso-Ci-ncia-de-Dados---Ebac
+# Trabalho---Curso-Ciência-de-Dados---Ebac
 Atividade de Estatística
